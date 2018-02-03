@@ -1,0 +1,214 @@
+<svg viewport-fill="#000000">
+  <circle cx="50%" cy="50%" r="120" fill="#ffffff" />
+  
+  <!-- Hours -->
+  <g transform="rotate(0) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(30) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(60) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(90) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(120) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(150) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(180) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(210) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(240) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(270) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(300) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(330) translate(50%,50%)">
+  <rect x="$" y="$-115" height="30" width="10" fill="#000000"></rect>
+  </g>
+  
+  <!-- Minutes -->
+  <g transform="rotate(7) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(13) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(19) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(25) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(37) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(43) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(49) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(55) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(67) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(73) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(79) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(85) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(97) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(103) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(109) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(115) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(127) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(133) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(139) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(145) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(157) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(163) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(169) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(175) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(187) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(193) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(199) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(205) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(217) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(223) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(229) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(235) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(247) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(253) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(259) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(265) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(277) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(283) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(289) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(295) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(307) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(313) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(319) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(325) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <g transform="rotate(337) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(343) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(349) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  <g transform="rotate(355) translate(50%,50%)">
+  <rect x="$" y="$-115" height="18" width="4" fill="#000000"></rect>
+  </g>
+  
+  <!-- Clock -->
+  
+  <g id="mins" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="$-4" y="-95" width="8" height="110" fill="#000000" />
+  </g>
+  <g id="hours" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="$-6" y="-60" width="12" height="75" fill="#000000" />
+  </g>
+  <g id="secs" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="$-2" y="-80" width="4" height="100" fill="#ff0000" />
+    <circle cx="$-2" cy="$-100" r="10" fill="#ff0000" />
+  </g>
+</svg>
