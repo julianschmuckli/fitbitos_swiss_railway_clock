@@ -202,13 +202,13 @@
   <!-- Clock -->
   
   <g id="mins" pointer-events="visible" transform="translate(50%,50%)">
-    <rect x="$-4" y="-95" width="8" height="110" fill="#000000" />
+    <rect x="$-4" y="-95" width="8" height="110" class="minuteHand" />
   </g>
   <g id="hours" pointer-events="visible" transform="translate(50%,50%)">
-    <rect x="$-6" y="-60" width="12" height="75" fill="#000000" />
+    <rect x="$-6" y="-60" width="12" height="75" class="hourHand" />
   </g>
   <g id="secs" pointer-events="visible" transform="translate(50%,50%)">
-    <rect x="$-2" y="-80" width="4" height="100" fill="#ff0000" />
-    <circle cx="$-2" cy="$-100" r="10" fill="#ff0000" />
+    <rect x="$-2" y="-80" width="4" height="100" class="secondHand" />
+    <circle cx="$-2" cy="$-100" r="10" class="secondHand" />
   </g>
 </svg>

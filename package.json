@@ -2,16 +2,16 @@
   "fitbit": {
     "appUUID": "c991aef0-8216-4e47-8f75-ee09cee61665",
     "appType": "clockface",
-    "appDisplayName": "SBB Clock",
+    "appDisplayName": "Swiss Railway Clock",
     "iconFile": "resources/icon.png",
     "wipeColor": "",
     "requestedPermissions": [],
     "i18n": {
       "en": {
-        "name": "SBB Clock"
+        "name": "Swiss Railway Clock"
       },
       "de": {
-        "name": "SBB Uhr"
+        "name": "Schweizer Bahnhofsuhr"
       }
     }
   }

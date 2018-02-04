@@ -1,13 +1,11 @@
-.background {
-  viewport-fill: red;
+.hourHand {
+  fill: black;
 }
 
-#myLabel {
-  font-size: 80;
-  font-family: System-Bold;
-  text-length: 32;
-  text-anchor: middle;
-  x: 50%;
-  y: 50%+40;
-  fill: white;
+.minuteHand{
+  fill: black;
+}
+
+.secondHand{
+  fill:"#FF101B";
 }
